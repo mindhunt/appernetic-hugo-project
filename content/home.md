@@ -1,8 +1,6 @@
 ---
 title: "Home"
-date: 2017-11-13T09:58:16Z
-draft: true
+date: 2017-11-13T10:02:31Z
 ---
 
-
-home bla
+home bla
