@@ -1,8 +1,6 @@
 ---
 title: "About"
-date: 2017-11-13T09:58:16Z
-draft: true
+date: 2017-11-13T10:02:21Z
 ---
 
-
-about Text
+about Text
